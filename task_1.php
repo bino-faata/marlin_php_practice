@@ -48,19 +48,19 @@
                                       $items = [
                                         [
                                           "title" => "Reports",
-                                          "tags" => "reports file",
+                                          "tags" => "reports file"
                                         ],
                                         [
                                           "title" => "Analytics",
-                                          "tags" => "analytics graphs",
+                                          "tags" => "analytics graphs"
                                         ],
                                         [
                                           "title" => "Export",
-                                          "tags" => "export download",
+                                          "tags" => "export download"
                                         ],
                                         [
                                           "title" => "Storage",
-                                          "tags" => "storage",
+                                          "tags" => "storage"
                                         ]
                                       ]
                                     ?>
