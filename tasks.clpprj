@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\tasks\tasks.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/tasks]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/tasks]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\tasks\task_1.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0">
+  <errfile name="C:\xampp\htdocs\tasks\css\statistics\chartist\chartist.css">
+   <error val="10;0;30;0;2502;1;"/>
+   <error val="248;0;274;0;2502;1;"/>
+   <error val="475;0;493;0;2502;1;"/>
+   <error val="698;0;716;0;2502;1;"/>
+   <error val="910;0;926;0;2502;1;"/>
+   <error val="1123;0;1141;0;2502;1;"/>
+   <error val="1346;0;1364;0;2502;1;"/>
+   <error val="1573;0;1591;0;2502;1;"/>
+   <error val="1825;0;1843;0;2502;1;"/>
+   <error val="2081;0;2099;0;2502;1;"/>
+   <error val="2320;0;2336;0;2502;1;"/>
+   <error val="2560;0;2576;0;2502;1;"/>
+   <error val="2585;0;2607;0;2502;1;"/>
+   <error val="2624;0;2645;0;2502;1;"/>
+   <error val="2607;0;2624;0;2502;1;"/>
+   <error val="2665;0;2675;0;2502;1;"/>
+   <error val="2702;0;2723;0;2502;1;"/>
+   <error val="2685;0;2702;0;2502;1;"/>
+   <error val="2732;0;2742;0;2502;1;"/>
+   <error val="2742;0;2759;0;2502;1;"/>
+   <error val="2780;0;2796;0;2502;1;"/>
+   <error val="2768;0;2780;0;2502;1;"/>
+   <error val="2804;0;2814;0;2502;1;"/>
+   <error val="2814;0;2832;0;2502;1;"/>
+   <error val="2848;0;2858;0;2502;1;"/>
+   <error val="2858;0;2876;0;2502;1;"/>
+   <error val="2971;0;2986;0;2502;1;"/>
+   <error val="3070;0;3083;0;2502;1;"/>
+   <error val="3178;0;3193;0;2502;1;"/>
+   <error val="3277;0;3290;0;2502;1;"/>
+   <error val="3385;0;3400;0;2502;1;"/>
+   <error val="3484;0;3497;0;2502;1;"/>
+   <error val="3592;0;3607;0;2502;1;"/>
+   <error val="3691;0;3704;0;2502;1;"/>
+   <error val="3799;0;3814;0;2502;1;"/>
+   <error val="3898;0;3911;0;2502;1;"/>
+   <error val="4006;0;4021;0;2502;1;"/>
+   <error val="4105;0;4118;0;2502;1;"/>
+   <error val="4213;0;4228;0;2502;1;"/>
+   <error val="4312;0;4325;0;2502;1;"/>
+   <error val="4420;0;4435;0;2502;1;"/>
+   <error val="4519;0;4532;0;2502;1;"/>
+   <error val="4627;0;4642;0;2502;1;"/>
+   <error val="4726;0;4739;0;2502;1;"/>
+   <error val="4834;0;4849;0;2502;1;"/>
+   <error val="4933;0;4946;0;2502;1;"/>
+   <error val="5041;0;5056;0;2502;1;"/>
+   <error val="5140;0;5153;0;2502;1;"/>
+   <error val="5248;0;5263;0;2502;1;"/>
+   <error val="5347;0;5360;0;2502;1;"/>
+   <error val="5455;0;5470;0;2502;1;"/>
+   <error val="5554;0;5567;0;2502;1;"/>
+   <error val="5662;0;5677;0;2502;1;"/>
+   <error val="5761;0;5774;0;2502;1;"/>
+   <error val="5869;0;5884;0;2502;1;"/>
+   <error val="5968;0;5981;0;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\tasks\css\miscellaneous\lightgallery\lightgallery.bundle.css">
+   <error val="1723;5;1757;5;2502;1;"/>
+   <error val="1757;5;1972;5;2502;1;"/>
+   <error val="2030;5;2041;5;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\tasks\css\vendors.bundle.css">
+   <error val="1840;5;1870;5;2502;1;"/>
+   <error val="30062;5;30078;5;2502;1;"/>
+   <error val="73070;5;73086;5;2502;1;"/>
+   <error val="75097;5;75113;5;2502;1;"/>
+   <error val="76171;5;76187;5;2502;1;"/>
+   <error val="76767;5;76783;5;2502;1;"/>
+   <error val="77367;5;77383;5;2502;1;"/>
+   <error val="93260;5;93270;5;2502;1;"/>
+   <error val="93270;5;93279;5;2502;1;"/>
+   <error val="109572;5;109599;5;2502;1;"/>
+   <error val="114321;5;114337;5;2502;1;"/>
+   <error val="116423;5;116439;5;2502;1;"/>
+   <error val="119271;5;119290;5;2502;1;"/>
+   <error val="177829;5;177839;5;2502;1;"/>
+   <error val="177839;5;177848;5;2502;1;"/>
+   <error val="179209;5;179237;5;2502;1;"/>
+   <error val="160;8;180;8;2502;1;"/>
+   <error val="81;11;119;11;2502;1;"/>
+   <error val="119;11;410;11;2502;1;"/>
+   <error val="40;13;79;13;2502;1;"/>
+   <error val="79;13;410;13;2502;1;"/>
+   <error val="654;13;674;13;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\tasks\css\fa-solid.css">
+   <error val="81;3;100;3;2502;1;"/>
+   <error val="100;3;138;3;2502;1;"/>
+   <error val="138;3;429;3;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\tasks\css\fa-regular.css">
+   <error val="81;3;100;3;2502;1;"/>
+   <error val="100;3;140;3;2502;1;"/>
+   <error val="140;3;441;3;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\tasks\css\fa-brands.css">
+   <error val="84;3;103;3;2502;1;"/>
+   <error val="103;3;142;3;2502;1;"/>
+   <error val="142;3;438;3;2502;1;"/>
+  </errfile>
+  <errfile name="C:\xampp\htdocs\tasks\css\app.bundle.css">
+   <error val="946;0;974;0;2502;1;"/>
+   <error val="19426;0;19460;0;2502;1;"/>
+   <error val="28281;0;28304;0;2502;1;"/>
+   <error val="36560;0;36580;0;2502;1;"/>
+   <error val="46298;0;46321;0;2502;1;"/>
+   <error val="48690;0;48708;0;2502;1;"/>
+   <error val="88638;0;88678;0;2502;1;"/>
+   <error val="88686;0;88730;0;2502;1;"/>
+   <error val="88606;0;88630;0;2502;1;"/>
+   <error val="88845;0;88874;0;2502;1;"/>
+   <error val="88631;0;88637;0;2502;1;"/>
+   <error val="88679;0;88685;0;2502;1;"/>
+   <error val="88578;0;88600;0;2502;1;"/>
+   <error val="88571;0;88577;0;2502;1;"/>
+   <error val="88804;0;88826;0;2502;1;"/>
+   <error val="88827;0;88844;0;2502;1;"/>
+   <error val="88875;0;89009;0;2502;1;"/>
+   <error val="88731;0;88778;0;2502;1;"/>
+   <error val="88779;0;88803;0;2502;1;"/>
+   <error val="88603;0;88605;0;2502;1;"/>
+   <error val="113067;0;113106;0;2502;1;"/>
+   <error val="113215;0;113234;0;2502;1;"/>
+   <error val="113157;0;113213;0;2502;1;"/>
+   <error val="113315;0;113342;0;2502;1;"/>
+   <error val="112761;0;112767;0;2502;1;"/>
+   <error val="113046;0;113065;0;2502;1;"/>
+   <error val="112768;0;113016;0;2502;1;"/>
+   <error val="113241;0;113274;0;2502;1;"/>
+   <error val="113019;0;113044;0;2502;1;"/>
+   <error val="113236;0;113240;0;2502;1;"/>
+   <error val="113275;0;113314;0;2502;1;"/>
+   <error val="113107;0;113156;0;2502;1;"/>
+   <error val="113767;0;113806;0;2502;1;"/>
+   <error val="113988;0;114035;0;2502;1;"/>
+   <error val="114036;0;114095;0;2502;1;"/>
+   <error val="113936;0;113987;0;2502;1;"/>
+   <error val="113730;0;113760;0;2502;1;"/>
+   <error val="113807;0;113866;0;2502;1;"/>
+   <error val="113546;0;113552;0;2502;1;"/>
+   <error val="113553;0;113729;0;2502;1;"/>
+   <error val="113761;0;113766;0;2502;1;"/>
+   <error val="113867;0;113935;0;2502;1;"/>
+   <error val="115648;0;115674;0;2502;1;"/>
+   <error val="115743;0;115773;0;2502;1;"/>
+   <error val="121182;0;121200;0;2502;1;"/>
+   <error val="134196;0;134206;0;2501;1;"/>
+   <error val="134212;0;134222;0;2501;1;"/>
+   <error val="16550;6;16555;6;2501;1;"/>
+   <error val="16857;6;16877;6;2502;1;"/>
+  </errfile>
+ </errors>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\tasks\webfonts\webfonts\nextgen-icons.html" crc="1591177516000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\webfonts\nextgen-icons-3.html" crc="1591177516000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\webfonts\nextgen-icons-2.html" crc="1591177516000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\nextgen-icons.html" crc="1591177516000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\fa-solid-900.html" crc="1591177566000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\fa-regular-400.html" crc="1591177574000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\fa-light-300.html" crc="1591177508000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\fa-duotone-900.html" crc="1591177540000"/>
+  <file name="C:\xampp\htdocs\tasks\webfonts\fa-brands-400.html" crc="1591177566000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\sparkline\sparkline.bundle.js" crc="1589439490000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\peity\peity.bundle.js" crc="1589439488000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\flot\flot.bundle.js" crc="1589439488000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\easypiechart\easypiechart.bundle.js" crc="1589439486000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\dygraph\dygraph.js" crc="1589439486000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\demo-data\demo-data-dygraph.js" crc="1589439484000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\demo-data\demo-c3.js" crc="1589439484000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\d3\d3.js" crc="1589439484000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\chartjs\chartjs.bundle.js" crc="1589439482000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\chartist\chartist.js" crc="1589439480000"/>
+  <file name="C:\xampp\htdocs\tasks\js\statistics\c3\c3.js" crc="1589439482000"/>
+  <file name="C:\xampp\htdocs\tasks\js\notifications\toastr\toastr.js" crc="1589439478000"/>
+  <file name="C:\xampp\htdocs\tasks\js\notifications\sweetalert2\sweetalert2.bundle.js" crc="1589439478000"/>
+  <file name="C:\xampp\htdocs\tasks\js\miscellaneous\lightgallery\lightgallery.bundle.js" crc="1589439474000"/>
+  <file name="C:\xampp\htdocs\tasks\js\miscellaneous\jqvmap\jqvmap.bundle.js" crc="1589439474000"/>
+  <file name="C:\xampp\htdocs\tasks\js\miscellaneous\fullcalendar\fullcalendar.bundle.js" crc="1589439472000"/>
+  <file name="C:\xampp\htdocs\tasks\js\json-path-picker\json-path-picker.js" crc="1589439452000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\summernote\summernote.js" crc="1589439472000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\select2\select2.bundle.js" crc="1589439468000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\ion-rangeslider\ion-rangeslider.js" crc="1589439468000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\inputmask\inputmask.bundle.js" crc="1589439466000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\dropzone\dropzone.js" crc="1589439466000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\cropperjs\cropper.js" crc="1589439464000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\bootstrap-daterangepicker\bootstrap-daterangepicker.js" crc="1589439464000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\bootstrap-datepicker\bootstrap-datepicker.js" crc="1589439462000"/>
+  <file name="C:\xampp\htdocs\tasks\js\formplugins\bootstrap-colorpicker\bootstrap-colorpicker.js" crc="1589439460000"/>
+  <file name="C:\xampp\htdocs\tasks\js\dependency\moment\moment.js" crc="1589439458000"/>
+  <file name="C:\xampp\htdocs\tasks\js\datagrid\datatables\datatables.export.js" crc="1589439462000"/>
+  <file name="C:\xampp\htdocs\tasks\js\datagrid\datatables\datatables.bundle.js" crc="1589439456000"/>
+  <file name="C:\xampp\htdocs\tasks\js\vendors.bundle.js" crc="1589439450000"/>
+  <file name="C:\xampp\htdocs\tasks\js\app.bundle.js" crc="1589439450000"/>
+  <file name="C:\xampp\htdocs\tasks\img\demo\ng.html" crc="1591177532000"/>
+  <file name="C:\xampp\htdocs\tasks\img\youtube-play.html" crc="1591177584000"/>
+  <file name="C:\xampp\htdocs\tasks\img\vimeo-play.html" crc="1591177584000"/>
+  <file name="C:\xampp\htdocs\tasks\img\video-play.html" crc="1591177584000"/>
+  <file name="C:\xampp\htdocs\tasks\css\statistics\dygraph\dygraph.css" crc="1589439378000"/>
+  <file name="C:\xampp\htdocs\tasks\css\statistics\chartjs\chartjs.css" crc="1589439378000"/>
+  <file name="C:\xampp\htdocs\tasks\css\statistics\chartist\chartist.css" crc="1589439378000"/>
+  <file name="C:\xampp\htdocs\tasks\css\statistics\c3\c3.css" crc="1589439378000"/>
+  <file name="C:\xampp\htdocs\tasks\css\skins\skin-master.css" crc="1589439354000"/>
+  <file name="C:\xampp\htdocs\tasks\css\notifications\toastr\toastr.css" crc="1589439374000"/>
+  <file name="C:\xampp\htdocs\tasks\css\notifications\sweetalert2\sweetalert2.bundle.css" crc="1589439376000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\reactions\reactions.css" crc="1589439374000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\lightgallery\fonts\lgd641.html" crc="1591177582000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\lightgallery\fonts\lgd641-4.html" crc="1591177584000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\lightgallery\fonts\lgd641-3.html" crc="1591177582000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\lightgallery\fonts\lgd641-2.html" crc="1591177582000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\lightgallery\fonts\lgd41d.html" crc="1591177582000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\lightgallery\lightgallery.bundle.css" crc="1589439372000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\jqvmap\jqvmap.bundle.css" crc="1589439370000"/>
+  <file name="C:\xampp\htdocs\tasks\css\miscellaneous\fullcalendar\fullcalendar.bundle.css" crc="1589439370000"/>
+  <file name="C:\xampp\htdocs\tasks\css\json-path-picker\json-path-picker.css" crc="1589439354000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\summernote\summernote.css" crc="1589439368000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\select2\select2.bundle.css" crc="1589439366000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\ion-rangeslider\ion-rangeslider.css" crc="1589439366000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\dropzone\dropzone.css" crc="1589439366000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\cropperjs\cropper.css" crc="1589439364000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\bootstrap-daterangepicker\bootstrap-daterangepicker.css" crc="1589439362000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\bootstrap-datepicker\bootstrap-datepicker.css" crc="1589439362000"/>
+  <file name="C:\xampp\htdocs\tasks\css\formplugins\bootstrap-colorpicker\bootstrap-colorpicker.css" crc="1589439360000"/>
+  <file name="C:\xampp\htdocs\tasks\css\datagrid\datatables\datatables.bundle.css" crc="1589439360000"/>
+  <file name="C:\xampp\htdocs\tasks\css\vendors.bundle.css" crc="1589439352000"/>
+  <file name="C:\xampp\htdocs\tasks\css\theme-demo.css" crc="1589439352000"/>
+  <file name="C:\xampp\htdocs\tasks\css\page-login-alt.css" crc="1589439352000"/>
+  <file name="C:\xampp\htdocs\tasks\css\page-invoice.css" crc="1589439350000"/>
+  <file name="C:\xampp\htdocs\tasks\css\fa-solid.css" crc="1589439350000"/>
+  <file name="C:\xampp\htdocs\tasks\css\fa-regular.css" crc="1589439350000"/>
+  <file name="C:\xampp\htdocs\tasks\css\fa-light.css" crc="1589439350000"/>
+  <file name="C:\xampp\htdocs\tasks\css\fa-duotone.css" crc="1589439350000"/>
+  <file name="C:\xampp\htdocs\tasks\css\fa-brands.css" crc="1589439350000"/>
+  <file name="C:\xampp\htdocs\tasks\css\app.bundle.css" crc="1596547172000"/>
+  <file name="C:\xampp\htdocs\tasks\task_9.html" crc="1596547434000"/>
+  <file name="C:\xampp\htdocs\tasks\task_8.html" crc="1596547382000"/>
+  <file name="C:\xampp\htdocs\tasks\task_7.html" crc="1596547156000"/>
+  <file name="C:\xampp\htdocs\tasks\task_6.html" crc="1596547156000"/>
+  <file name="C:\xampp\htdocs\tasks\task_5.html" crc="1596547028000"/>
+  <file name="C:\xampp\htdocs\tasks\task_4.html" crc="1596547008000"/>
+  <file name="C:\xampp\htdocs\tasks\task_3.html" crc="1596546988000"/>
+  <file name="C:\xampp\htdocs\tasks\task_2.html" crc="1627547710788"/>
+  <file name="C:\xampp\htdocs\tasks\task_10.html" crc="1596547452000"/>
+  <file name="C:\xampp\htdocs\tasks\task_1.html" crc="1640479586037"/>
+ </filescache>
+</project>
