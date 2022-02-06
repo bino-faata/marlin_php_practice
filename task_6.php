@@ -44,7 +44,7 @@ $user_blocks = [
         "twitter_name" => "@myplaneticket",
         "contact_link" => "https://wrapbootstrap.com/user/myorange",
         "banned_class" => "banned",
-        "is_banned" => "",
+        "is_banned" => null,
     ],
     [
         "img" => "img/demo/authors/josh.png",
@@ -55,7 +55,7 @@ $user_blocks = [
         "twitter_name" => "@atlantez",
         "contact_link" => "https://wrapbootstrap.com/user/Walapa",
         "banned_class" => "banned",
-        "is_banned" => "",
+        "is_banned" => null,
     ],
     [
         "img" => "img/demo/authors/jovanni.png",
@@ -66,7 +66,7 @@ $user_blocks = [
         "twitter_name" => "@lodev09",
         "contact_link" => "https://wrapbootstrap.com/user/lodev09",
         "banned_class" => "banned",
-        "is_banned" => "true",
+        "is_banned" => true,
     ],
     [
         "img" => "img/demo/authors/roberto.png",
@@ -77,7 +77,7 @@ $user_blocks = [
         "twitter_name" => "@sildur",
         "contact_link" => "https://wrapbootstrap.com/user/sildur",
         "banned_class" => "banned",
-        "is_banned" => "true",
+        "is_banned" => true,
     ],
 ];
 ?>
